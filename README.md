@@ -3,6 +3,10 @@
 
 [![crates.io:app_dirs2](https://img.shields.io/crates/v/app_dirs2.svg?label=crates.io%3A%20app_dirs2)](https://crates.io/crates/app_dirs2)
 
+# Moved
+
+This is now at <https://github.com/app-dirs-rs/app_dirs2>
+
 ## This is a fork!
 
 The original [app_dirs](https://crates.io/crates/app_dirs) crate appears essentially unmaintained
